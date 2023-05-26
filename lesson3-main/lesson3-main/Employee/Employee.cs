@@ -7,17 +7,17 @@ public class Employee
 	public int _id;
 	static public int _count = 1;
 
-    public Employee(string fio, int department, double salary)
-	{   
+	public Employee(string fio, int department, double salary)
+	{
 		_department = department;
-		_salary = salary;	
-		_fio = fio;	
+		_salary = salary;
+		_fio = fio;
 		_id = _count++;
 	}
-	public string Fio	
-	{ 
-	  get => _fio;
-	  set => _fio = value;
+	public string Fio
+	{
+		get => _fio;
+		set => _fio = value;
 	}
 	public int Department
 	{
@@ -29,7 +29,6 @@ public class Employee
 		get => _salary;
 		set => _salary = value;
 	}
-
 }
 
 

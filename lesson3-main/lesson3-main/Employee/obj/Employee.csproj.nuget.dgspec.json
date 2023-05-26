@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\Employee\\Employee.csproj": {}
+    "C:\\Users\\Admin\\Downloads\\lesson3-main\\lesson3-main\\lesson3-main\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\Employee\\Employee.csproj": {
+    "C:\\Users\\Admin\\Downloads\\lesson3-main\\lesson3-main\\lesson3-main\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Employee\\Employee.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\lesson3-main\\lesson3-main\\lesson3-main\\Employee\\Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\Employee\\Employee.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\Employee\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Downloads\\lesson3-main\\lesson3-main\\lesson3-main\\Employee\\Employee.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Downloads\\lesson3-main\\lesson3-main\\lesson3-main\\Employee\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
